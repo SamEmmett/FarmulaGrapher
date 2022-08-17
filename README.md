@@ -3,7 +3,7 @@ Simple program made using Apache Math and JFreeChart
 
 My instructor was sick with Covid so he told my class to make a program that
   1. took numbers 1-100
-  2. pluged those values into a formula
+  2. pluged those values into a formula of our choice (I chose X^3 + 3X^2 + 1)
   3. then spat out unaltered, altered, smooted, and smoothed datasets
   
 Then he wanted us to use JFreeChart to graph each dataset.
